@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "movies",
+      "title": "🎬 أفلام",
+      "items": [
+        {
+          "name": "Big Buck Bunny",
+          "url": "aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2d0di12aWRlb3MtYnVja2V0L3NhbXBsZS9CaWdCdWNrQnVubnkubXA0"
+        }
+      ]
+    },
+    {
+      "id": "live",
+      "title": "📺 قنوات مباشرة",
+      "items": [
+        {
+          "name": "Test Channel",
+          "url": "aHR0cHM6Ly90ZXN0LXN0cmVhbXMubXV4LmRldi94MzZ4aHp6Lm0zdTg="
+        }
+      ]
+    }
+  ]
+}
