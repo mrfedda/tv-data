@@ -5,7 +5,7 @@
       "title": "🎥 Facebook Videos",
       "items": [
         {
-          "name": "Video Example 1",
+          "name": "أفلام",
           "url": "https://www.facebook.com/YourPage/videos/123456789/",
           "image": "https://raw.githubusercontent.com/mrfedda/tv-data/main/images/fb_video.jpg"
         }
@@ -16,7 +16,7 @@
       "title": "📸 Instagram Videos",
       "items": [
         {
-          "name": "IG Video Example 1",
+          "name": "مباشر",
           "url": "https://www.instagram.com/reel/XXXXXXXXX/",
           "image": "https://raw.githubusercontent.com/mrfedda/tv-data/main/images/ig_video.jpg"
         }
