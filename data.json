@@ -1,43 +1,10 @@
+
 {
-  "categories": [
+  "channels": [
     {
-      "id": "movies",
-      "title": "🎬 أفلام",
-      "items": [
-        {
-          "type": "folder",
-          "name": "أكشن",
-          "image": "https://raw.githubusercontent.com/mrfedda/tv-data/main/images/action.jpg",
-          "items": [
-            {
-              "type": "video",
-              "name": "Fast & Furious",
-              "url": "https://www.facebook.com/reel/852189813815866",
-              "image": "https://server.com/fast.jpg"
-            },
-            {
-              "type": "video",
-              "name": "John Wick",
-              "url": "https://server.com/john.mp4",
-              "image": "https://server.com/john.jpg"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "رعب",
-          "image": "https://raw.githubusercontent.com/mrfedda/tv-data/main/images/horror.jpg",
-          "items": [
-            {
-              "type": "video",
-              "name": "The Nun",
-              "url": "https://server.com/nun.mp4",
-              "image": "https://server.com/nun.jpg"
-            }
-          ]
-        }
-      ]
+      "name": "beIN Sports 1",
+      "logo": "https://i.imgur.com/logo1.png",
+      "url": "https://example.com/live1.m3u8"
     }
   ]
 }
-
