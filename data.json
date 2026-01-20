@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "name": "Nature Channel",
-    "logo": "https://via.placeholder.com/300x150.png?text=Nature",
+    "name": "bien Sports 1 HD",
+    "logo": "https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "id": "2",
     "name": "Movies HD",
-    "logo": "https://via.placeholder.com/300x150.png?text=Movies",
+    "logo": "https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "id": "3",
     "name": "Series One",
-    "logo": "https://via.placeholder.com/300x150.png?text=Series",
+    "logo": "https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ]
