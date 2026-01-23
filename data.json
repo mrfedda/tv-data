@@ -1,26 +1,15 @@
 {
-  "categories": [
+  "movies": [
     {
-      "id": "movies",
-      "title": "أفلام",
-      "items": [
-        {
-          "name": "Film 1",
-          "url": "https://example.com/movie1.m3u8",
-          "type": "video"
-        }
-      ]
-    },
+      "title": "Big Buck Bunny",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "poster": "https://i.imgur.com/2yaf2wb.jpg"
+    }
+  ],
+  "channels": [
     {
-      "id": "live",
-      "title": "قنوات",
-      "items": [
-        {
-          "name": "Channel 1",
-          "url": "https://example.com/live.m3u8",
-          "type": "live"
-        }
-      ]
+      "title": "Test Live",
+      "url": "https://test-streams.mux.dev/test_001/stream.m3u8"
     }
   ]
 }
