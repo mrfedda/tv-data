@@ -8,3 +8,14 @@
     }
   ]
 }
+
+{
+  "movies": [],
+  "channels": [
+    {
+      "title": "MOUVIES",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "poster": "https://github.com/3PO/Senderlogos/blob/master/action.png"
+    }
+  ]
+}
