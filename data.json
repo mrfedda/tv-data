@@ -1,26 +1,36 @@
 {
   "movies": [
     {
-      "title": "Big Buck Bunny",
-      "url": "https://test-streams.mux.dev/bbb/master.m3u8",
-      "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg"
+      "title": "فيلم مغامرة",
+      "url": "https://example.com/video1.m3u8",
+      "poster": "https://example.com/poster1.jpg"
     },
     {
-      "title": "Sintel",
-      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sintel_poster.jpg"
+      "title": "فيلم درامي",
+      "url": "https://example.com/video2.m3u8",
+      "poster": "https://example.com/poster2.jpg"
+    },
+    {
+      "title": "فيلم أكشن",
+      "url": "https://example.com/video3.m3u8",
+      "poster": "https://example.com/poster3.jpg"
     }
   ],
   "channels": [
     {
-      "title": "CCTV-1",
-      "url": "https://cctv1-lh.akamaihd.net/i/cctv1_1@123595/master.m3u8",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4f/CCTV_logo.svg"
+      "title": "قناة الأخبار",
+      "url": "https://example.com/live1.m3u8",
+      "poster": "https://example.com/channel1.jpg"
     },
     {
-      "title": "Test Live Stream",
-      "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/4/44/Placeholder_no_text.svg"
+      "title": "قناة الرياضة",
+      "url": "https://example.com/live2.m3u8",
+      "poster": "https://example.com/channel2.jpg"
+    },
+    {
+      "title": "قناة الأفلام",
+      "url": "https://example.com/live3.m3u8",
+      "poster": "https://example.com/channel3.jpg"
     }
   ]
 }
