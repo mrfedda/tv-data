@@ -1,23 +1,53 @@
 {
-  "movies": [
-    {
-      "title": "Sintel",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "poster": "https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_01_hd.png"
-    }
-  ],
   "channels": [
     {
       "title": "beIN 1 HD",
       "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "poster": "https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_01_hd.png"
+    },
+    {
+      "title": "beIN 2 HD",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "poster": "https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_02_hd.png"
+    },
+    {
+      "title": "beIN 3 HD",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "poster": "https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_03_hd.png"
+    },
+    {
+      "title": "CCTV-1",
+      "url": "https://cctv1-lh.akamaihd.net/i/cctv1_1@123595/master.m3u8",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4f/CCTV_logo.svg"
+    },
+    {
+      "title": "Test Live Stream",
+      "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/4/44/Placeholder_no_text.svg"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Sintel",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sintel_poster.jpg"
+    },
+    {
+      "title": "Big Buck Bunny",
+      "url": "https://test-streams.mux.dev/bbb/master.m3u8",
+      "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg"
     }
   ],
   "series": [
     {
       "title": "Series One",
       "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "poster": "https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_03_hd.png"
+      "poster": "https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_04_hd.png"
+    },
+    {
+      "title": "Series Two",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "poster": "https://raw.githubusercontent.com/murphieslaw23/channel-logos/master/be_in_mena_sports_05_hd.png"
     }
   ]
 }
