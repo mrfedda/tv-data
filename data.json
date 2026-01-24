@@ -1,30 +1,25 @@
 {
   "movies": [
     {
-      "title": "Sintel (Test VOD)",
-      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sintel_poster.jpg"
+      "title": "Big Buck Bunny",
+      "url": "https://test-streams.mux.dev/bbb/master.m3u8",
+      "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg"
     },
     {
-      "title": "Tears of Steel",
-      "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tears_of_Steel_poster.jpg"
+      "title": "Sintel",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sintel_poster.jpg"
     }
   ],
   "channels": [
     {
-      "title": "Al Jazeera",
+      "title": "CCTV-1",
+      "url": "https://cctv1-lh.akamaihd.net/i/cctv1_1@123595/master.m3u8",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4f/CCTV_logo.svg"
+    },
+    {
+      "title": "Test Live Stream",
       "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-      "poster": "https://raw.githubusercontent.com/3PO/Senderlogos/master/al%20jazeera%20channel.png"
-    },
-    {
-      "title": "Test Channel 1",
-      "url": "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/4/44/Placeholder_no_text.svg"
-    },
-    {
-      "title": "Test Channel 2",
-      "url": "https://stream-fastly.castr.com/5b9352dbda7b8c769937e459/live_2361c920455111ea85db6911fe397b9e/index.fmp4.m3u8",
       "poster": "https://upload.wikimedia.org/wikipedia/commons/4/44/Placeholder_no_text.svg"
     }
   ]
