@@ -1,11 +1,11 @@
 {
   "movies": [
-    { "title": "Sintel", "url": "https://....m3u8", "poster": "https://....jpg" }
+    { "title": "Sintel", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "poster": "https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png" }
   ],
   "channels": [
-    { "title": "beIN 1 HD", "url": "https://....m3u8", "poster": "https://....png" }
+    { "title": "beIN 1 HD", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "poster": "https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png" }
   ],
   "series": [
-    { "title": "Series One", "url": "https://....m3u8", "poster": "https://....jpg" }
+    { "title": "Series One", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "poster": "https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png" }
   ]
 }
