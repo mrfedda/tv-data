@@ -8,7 +8,7 @@
     },
     {
       "title": "Movies",
-      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8",
       "poster": "https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png"
     }
   ]
